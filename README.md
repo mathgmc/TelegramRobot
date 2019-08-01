@@ -1,6 +1,6 @@
 # TelegramRobot
 
-This TelegramBot was develop inspire in a [Toptal blog post](https://www.toptal.com/python/telegram-bot-tutorial-python). And is up and runing right now, you can talk to the bot going to Telegram App and searching by: @imdrobot. This small project was created to test and learn more about Python API's ( and for fun :D ).
+This TelegramBot was developed inspired by a [Toptal blog post](https://www.toptal.com/python/telegram-bot-tutorial-python). And is up and running right now, you can talk to the bot going to Telegram App and searching by @imdrobot. This small project was created to test and learn more about Python API's ( and for fun :D ).
 
 ## How to Setup and use this code
 
